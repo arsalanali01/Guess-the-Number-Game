@@ -1,0 +1,16 @@
+Planning and Logic Will Go Here.
+
+Scope:
+1st: Build HTML
+2nd: Build CSS
+3rd: BUild JS
+4th: Verify with AI
+5th: Deploy on Github
+
+1st Step: Build HTML:
+We will add Four elements in the header:
+- Again Button to refresh the page
+- Guess My Number! for the title of the page
+- ? <- to show the number once correctly guessed
+- (Between 1 & 20) for the parameters of guessing
+**We will have to assign specific classes for all fo these to make the JS easier**
