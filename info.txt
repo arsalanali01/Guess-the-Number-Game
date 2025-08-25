@@ -14,3 +14,10 @@ We will add Four elements in the header:
 - ? <- to show the number once correctly guessed
 - (Between 1 & 20) for the parameters of guessing
 **We will have to assign specific classes for all fo these to make the JS easier**
+- ? has to be a div
+
+2nd Step: Build CSS:
+- We will change the fon to Orbitron for the futuristic look
+- We will find a good background
+- We will make the Start guessing and the right section all in boxes
+- We will just try whatever till we get it down.
