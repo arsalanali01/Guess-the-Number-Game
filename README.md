@@ -30,7 +30,8 @@ A fun and interactive number guessing game built with **HTML, CSS, and JavaScrip
 ---
 
 ## 📸 Demo  
-👉 [Play it here with GitHub Pages](#) *(add Github Link once deployed)*  
+👉 [Play it here with GitHub Pages](#) 
+https://arsalanali01.github.io/Guess-the-Number-Game/
 
 ---
 
