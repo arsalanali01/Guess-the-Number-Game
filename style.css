@@ -100,13 +100,30 @@ h1 {
 }
 
 .btn {
+  padding: 12px 25px;
   border: none;
-  background-color: #eee;
-  color: #222;
-  font-size: 2rem;
-  font-family: inherit;
-  padding: 2rem 3rem;
+  border-radius: 8px;
+  background: linear-gradient(45deg, #6a11cb, #2575fc);
+  color: white;
+  font-size: 16px;
   cursor: pointer;
+  transition: 0.4s;
+}
+.btn.again {
+  padding: 12px 25px;
+  border: none;
+  border-radius: 8px;
+  background: #00c6ff;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  box-shadow: 0 6px #0096c7;
+  transition: 0.2s;
+}
+
+.btn.again:active {
+  transform: translateY(4px);
+  box-shadow: 0 2px #0096c7;
 }
 
 .btn.again:hover {
